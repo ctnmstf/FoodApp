@@ -25,7 +25,11 @@ Food Order App with Kotlin and MVVM Architecture Pattern
 
 
 
-
+<img
+  src="https://user-images.githubusercontent.com/32110062/154846334-a3609da5-7db9-430f-9f49-0f4198c61401.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![Wellcome Page](https://user-images.githubusercontent.com/32110062/154846334-a3609da5-7db9-430f-9f49-0f4198c61401.png)
 ![Login Page](https://user-images.githubusercontent.com/32110062/154846516-14db5e52-c47a-4476-9397-c0d54e3acfc4.png)
 ![Register Page](https://user-images.githubusercontent.com/32110062/154846531-e9d0f039-20a2-4a9d-86e0-c7a7ee51eff0.png)
