@@ -11,7 +11,7 @@ Food Order App with Kotlin and MVVM Architecture Pattern
 7. Picasso
 8. Firebase Authentication
 
-## Libraries:
+## Features:
 1. Login
 2. Register
 3. View Food List
